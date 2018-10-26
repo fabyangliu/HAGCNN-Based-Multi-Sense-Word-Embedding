@@ -1,0 +1,24 @@
+The first set (set1) contains 153 word pairs along with their similarity scores assigned by 13 subjects. 
+The second set (set2) contains 200 word pairs, with their similarity assessed by 16 subjects. 
+
+Subjects' names have been replaced by ordinal numbers (1..13, or 1..16) to protect their privacy; 
+identical numbers in the two sets do not necessarily correspond to the same individual.
+All the subjects in both experiments possessed near-native command of English. 
+Their instructions were to estimate the relatedness of the words in pairs on a scale from 0 (totally unrelated words) to 10 (very much related or identical words). 
+The precise instructions are available in file instructions.txt inside the ZIP archive (see section "Availability and usage" below).
+
+Each set provides the raw scores assigned by each subject, as well as the mean score for each word pair. 
+For convenience, a combined set (combined) is provided that contains a list of all 353 words, along with their mean similarity scores. 
+The combined set is merely a concatenation of the two smaller sets.
+
+All sets (set1, set2 and combined) are available in two formats:
+
+Comma-separated values (CSV) - see files with the csv extension
+Tab-delimited (TAB) - see files with the tab extension
+The first two columns in each file contain word pairs, followed by a column with the (floating-point) mean score of the subjects' individual assessments. 
+
+In set1 and set2 there are additional columns with individual subjects' scores (one column per subject). 
+In the general case, all scores are floating-point, although many appear as integers.
+
+Note: set1 includes, among others, all the 30 noun pairs from G.A. Miller and W.G. Charles, "Contextual correlates of semantic similarity", Language and Cognitive Processes, Vol. 6, No. 1, 1991, pp. 1-28 (although similarity scores have been obtained anew).
+
