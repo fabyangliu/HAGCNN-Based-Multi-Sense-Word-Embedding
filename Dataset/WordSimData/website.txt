@@ -1,0 +1,1 @@
+https://github.com/mfaruqui/eval-word-vectors/tree/master/data/word-sim
