@@ -1,4 +1,4 @@
-# code-for-Multi-sense-Word-Embedding
+# HAGCNN-Based-Multi-Sense-Word-Embedding
 “基于门控卷积与层次注意力机制的多语义词向量计算方法”一文的源码  
   * 使用本代码请注明引用：  
   * “柳杨, 吉立新, 黄瑞阳,等. 基于门控卷积机制与层次注意力机制的多语义词向量计算方法[J]. 中文信息学报, 2018(7).”
